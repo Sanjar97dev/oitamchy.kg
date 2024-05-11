@@ -1,0 +1,15 @@
+.product_block {
+  display: flex;
+  flex-wrap: wrap;
+  align-content: flex-start;
+  justify-content: space-around;
+  gap: 60px;
+}
+
+.card{
+  width: 40%;
+}
+
+.img-fluid {
+  height: 100%
+}
